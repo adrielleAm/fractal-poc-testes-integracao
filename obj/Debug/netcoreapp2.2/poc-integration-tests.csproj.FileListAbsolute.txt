@@ -1,0 +1,14 @@
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/poc-integration-tests.dll
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/poc-integration-tests.pdb
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/obj/Debug/netcoreapp2.2/poc-integration-tests.csprojAssemblyReference.cache
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/obj/Debug/netcoreapp2.2/poc-integration-tests.csproj.CoreCompileInputs.cache
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/obj/Debug/netcoreapp2.2/poc-integration-tests.AssemblyInfoInputs.cache
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/obj/Debug/netcoreapp2.2/poc-integration-tests.AssemblyInfo.cs
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/obj/Debug/netcoreapp2.2/poc-integration-tests.dll
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/obj/Debug/netcoreapp2.2/poc-integration-tests.pdb
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/poc-integration-tests.deps.json
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/poc-integration-tests.runtimeconfig.json
+/media/root/40C270DBC270D69E/Users/Chagas/Projetos/poc-integration-tests/bin/Debug/netcoreapp2.2/poc-integration-tests.runtimeconfig.dev.json
