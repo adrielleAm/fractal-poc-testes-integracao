@@ -32,21 +32,7 @@ public async void CompositionTestAsync()
 ```
 
 Para tornar o código mais fluente possível, utilizamos a biblioteca [Flurl](https://flurl.dev/) para realizar as chamadas HTTP
- Guilda Fractal
 
-## Missão
-
-A missão da Guilda Fractal é **zelar pela qualidade técnica dos projetos na dti**, **acelerando o aprendizado conceitual e prático dos crafters e parceiros**, servindo de **inspiração para a evolução profissional contínua**.
-
-## OKRs
-
-- **O1** = Reduzir leadtime de inicio dos projetos
-  - **KR1** = 100% das tecnologias mapeadas com pessoas/squads de referência.
-  - **KR2** = 100% dos squads com as tecnologias mapeadas.
-- **O2** = Atuar na antifragilidade tecnológica da dti
-  - **KR1** = Criar 2 POCs/mês de tecnologias que não estão presentes na dti, baseadas em problemas identificados nos checks.
-  - **KR2** = 100% dos checks arquiteturais com pelo menos uma pessoa da Fractal presente.
-  - **KR3** = Criar um novo Hour of Architect a cada 3 meses, e manter a execução de todos os já existentes.
 ## Validação dos retornos
 
 O próximo exemplo trata da validação dos retornos. Usamos uma abordagem utilizando retorno dinâmico do c#, para ter uma abordagem mais fortemente tipada seria necessário criar um objeto que representasse o retorno da chamada. 
