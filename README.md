@@ -1,7 +1,7 @@
 # Testes de Integração com xUnit
 
 O objetivo deste projeto é realizar testes de integração de APIs utilizando o xUnit.
-Serão cobertos cenários de :
+Serão cobertos cenários de:
 * Chamadas com composição;
 * Validação dos retornos;
 * ContractTest vs Test Doubles.
